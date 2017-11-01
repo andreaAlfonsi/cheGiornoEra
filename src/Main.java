@@ -1,3 +1,4 @@
+
 public class Main {
 
 	public static String dayOfTheWeek(int year, int month, int day){
